@@ -1,0 +1,15 @@
+{
+  "name": "@freakishlancer/how-to-npm",
+  "version": "1.0.0",
+  "description": "Doing the simple how-to-npm tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial",
+    "beginner"
+  ],
+  "author": "Tony Pham",
+  "license": "ISC"
+}
