@@ -11,5 +11,8 @@
     "beginner"
   ],
   "author": "Tony Pham",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
