@@ -1,6 +1,6 @@
 {
   "name": "@freakishlancer/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Doing the simple how-to-npm tutorial.",
   "main": "index.js",
   "scripts": {
